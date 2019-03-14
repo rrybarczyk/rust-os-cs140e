@@ -1,3 +1,6 @@
 [submodule "blinky"]
 	path = blinky
 	url = https://github.com/rrybarczyk/blinky
+[submodule "shelly"]
+	path = shelly
+	url = https://github.com/rrybarczyk/shelly
