@@ -1,0 +1,3 @@
+[submodule "blinky"]
+	path = blinky
+	url = https://github.com/rrybarczyk/blinky
