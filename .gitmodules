@@ -4,3 +4,6 @@
 [submodule "shelly"]
 	path = shelly
 	url = https://github.com/rrybarczyk/shelly
+[submodule "osy"]
+	path = osy
+	url = git@github.com:rrybarczyk/osy.git
