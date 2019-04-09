@@ -7,3 +7,6 @@
 [submodule "osy"]
 	path = osy
 	url = git@github.com:rrybarczyk/osy.git
+[submodule "filey"]
+	path = filey
+	url = git@github.com:rrybarczyk/filey.git
